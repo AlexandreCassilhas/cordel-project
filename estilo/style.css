@@ -49,6 +49,7 @@ header a, footer a {
 
 header a:hover, footer a:hover {
   text-decoration: underline;
+  color:rgba(218, 165, 32, 0.692);
 }
 
 footer {
@@ -86,7 +87,7 @@ section#img02 {
 section.imagem > p {
   display: inline-block;
   padding: 5px;
-  width: 400px;
+  width: 55vw;
   background-color: rgba(0, 0, 0, 0.514);
   text-shadow: 1px 1px 0px black;
 }
